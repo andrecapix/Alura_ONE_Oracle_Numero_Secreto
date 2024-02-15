@@ -1,11 +1,15 @@
 # Alura_ONE_Oracle_Numero_Secreto
 
 
-Are you starting to use Git/GitHub and just came across the message "failed to push some refs to ..."?
-Don't worry, this video shows the cause of this problem and how to solve it.
+<h1>Jogo do número secreto</h1>
 
-git pull --rebase origin <branch>
+<h2>Sobre</h2>
+<p>Projeto utilizado nos cursos de lógica de programação da Alura.</p>
 
-      in my case: git pull --rebase origin main
+## Tecnologias
+<div>
+  <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+</div>
 
-      https://www.youtube.com/watch?v=IeL7iq7Lb90
